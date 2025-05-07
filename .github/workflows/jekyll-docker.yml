@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Babel Bibane</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Georgia', serif;
+      background-color: #1e1a16;
+      color: #fff;
+      text-align: center;
+    }
+    header {
+      position: relative;
+      background-color: #000;
+    }
+    header img {
+      width: 100%;
+      max-height: 100vh;
+      object-fit: cover;
+    }
+    h1 {
+      margin: 1em 0 0.3em;
+      font-size: 2.5em;
+    }
+    p {
+      font-size: 1.2em;
+      max-width: 800px;
+      margin: auto;
+      padding: 1em;
+    }
+    .contact-button {
+      margin: 2em;
+      display: inline-block;
+      padding: 1em 2em;
+      background-color: #c58a35;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+    .lang-switch {
+      margin-top: 2em;
+      font-size: 0.9em;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="0a7f17e0-3e97-4ea1-bcd9-bae906c73f42.png" alt="Babel Bibane">
+  </header>
+
+  <main>
+    <h1>Bienvenue chez Babel Bibane</h1>
+    <p>Un portail vers l'authenticité et l'artisanat marocain. Là où la porte devient symbole d'identité, d'histoire et de beauté.</p>
+    <a href="mailto:contact@babelbibane.com" class="contact-button">Nous contacter</a>
+    
+    <div class="lang-switch">
+      <p><strong>EN:</strong> Welcome to Babel Bibane – a gateway to Moroccan tradition and soul. Discover the door that unites worlds.<br>
+      <a href="mailto:contact@babelbibane.com" class="contact-button">Contact Us</a></p>
+    </div>
+  </main>
+</body>
+</html>
